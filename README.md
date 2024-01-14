@@ -7,11 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madhusudhan pasupuleti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhusudhan pasupuleti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/madhusudhanit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/madhusudhanit" height="30" width="40" /></a>
 <a href="https://instagram.com/_madhusudhan___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_madhusudhan___" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pmadhusudhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pmadhusudhan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pmadhusudhanit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pmadhusudhanit" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pmadhusudhanit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pmadhusudhanit" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pmadhusudhanit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pmadhusudhanit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pmadhusudhanit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pmadhusudhanit" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pmadhusudhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pmadhusudhan" height="30" width="40" /></a>
 </p>
